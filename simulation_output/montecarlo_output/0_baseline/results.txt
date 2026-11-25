@@ -1,0 +1,93 @@
+- Number of simulations: 200
+- Output directory: 0_baseline
+- Launch site: santa_margarida
+- Geometry v1.6, aerodynamics v1.4/CD_Mach_Test_Atlas_v_1.2_SDRAD_cd_mach.csv, motor SRAD/v1.0, recovery v1.0, airbrakes None
+
+Out of Rail Time
+	Mean Value: 0.453 s
+	Standard Deviation: 0.001 s
+
+Out of Rail Velocity
+	Mean Value: 42.223 m/s
+	Standard Deviation: 0.079 m/s
+
+Apogee Time
+	Mean Value: 26.478 s
+	Standard Deviation: 0.063 s
+
+Apogee Altitude
+	Mean Value: 3447.119 m
+	Standard Deviation: 19.018 m
+
+Apogee X Position
+	Mean Value: 444.187 m
+	Standard Deviation: 37.428 m
+
+Apogee Y Position
+	Mean Value: -650.22 m
+	Standard Deviation: 52.789 m
+
+Impact Time
+	Mean Value: 202.305 s
+	Standard Deviation: 1.324 s
+
+Impact X Position
+	Mean Value: 725.41 m
+	Standard Deviation: 42.932 m
+
+Impact Y Position
+	Mean Value: -592.467 m
+	Standard Deviation: 61.513 m
+
+Impact Velocity
+	Mean Value: -5.686 m/s
+	Standard Deviation: 0.056 m/s
+
+Initial Static Margin
+	Mean Value: 2.364 c
+	Standard Deviation: 0.035 c
+
+Out of Rail Static Margin
+	Mean Value: 2.491 c
+	Standard Deviation: 0.035 c
+
+Final Static Margin
+	Mean Value: 3.381 c
+	Standard Deviation: 0.037 c
+
+Maximum Velocity
+	Mean Value: 296.251 m/s
+	Standard Deviation: 1.149 m/s
+
+Maximum Acceleration
+	Mean Value: 119.34 m/s^2
+	Standard Deviation: 0.462 m/s^2
+
+Maximum Aerodynamic Drag
+	Mean Value: 294.334 N
+	Standard Deviation: 2.425 N
+
+Maximum Aerodynamic Lift
+	Mean Value: 217.013 N
+	Standard Deviation: 31.845 N
+
+Maximum Aerodynamic Spin Moment
+	Mean Value: 0.0 N*m
+	Standard Deviation: 0.0 N*m
+
+Maximum Aerodynamic Bending Moment
+	Mean Value: 4.897 N*m
+	Standard Deviation: 0.115 N*m
+
+Drogue Parachute Trigger Time
+	Mean Value: 26.587 s
+	Standard Deviation: 0.063 s
+
+Drogue Parachute Fully Inflated Time
+	Mean Value: 28.366 s
+	Standard Deviation: 0.116 s
+
+Drogue Parachute Fully Inflated Velocity
+	Mean Value: 32.944 m/s
+	Standard Deviation: 1.947 m/s
+
